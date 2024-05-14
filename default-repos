@@ -8,7 +8,7 @@ ira                https://github.com/bebbo/ira				        master
 ixemul             https://github.com/bebbo/ixemul				    master
 lha                https://github.com/jca02266/lha				    master
 libdebug           https://github.com/bebbo/libdebug			    master
-libnix             https://github.com/bebbo/libnix				    master
+libnix             https://github.com/WDrijver/libnix				  WD-StableGCC
 libSDL12           https://github.com/AmigaPorts/libSDL12	  	master
 newlib-cygwin      https://github.com/bebbo/newlib-cygwin		  amiga
 sfdc               https://github.com/bebbo/sfdc				      master
