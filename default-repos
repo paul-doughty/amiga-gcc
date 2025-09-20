@@ -13,9 +13,10 @@ libSDL12           https://github.com/AmigaPorts/libSDL12	  	master
 newlib-cygwin      https://github.com/WDrijver/newlib-cygwin		  WD-StableNewlib
 sfdc               https://github.com/AmigaPorts/sfdc				      master
 vasm               https://github.com/AmigaPorts/vasm			      master
-vbcc               https://github.com/AmigaPorts/vbcc				      master
+vbcc               https://github.com/AmigaPorts/vbcc				      fix_amiga-gcc_vbcc
 vlink              https://github.com/AmigaPorts/vlink			        master
 aros-stuff         https://github.com/AmigaPorts/aros-stuff			  master
+
 
 
 
